@@ -33,6 +33,7 @@ dependencies:
       - nest_asyncio
       - lime==0.2.0.1
       - shap==0.44.0
+      - rank_bm25
       - jupyter
   
  
