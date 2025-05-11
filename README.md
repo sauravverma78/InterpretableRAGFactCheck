@@ -6,6 +6,10 @@ Includes
  - PEFT & DPO fine-tuning (Mistral model) with significant improvements of accuracy (56% to 74%)
  - Token-level explainability with Captum, SHAP, and LIME.
 
+### Submitted by
+**Apple Analytics Team (1)**  
+Saurav, Lahari, Savithri, Taniksha
+
 📄 See [project report](https://github.com/sauravverma78/InterpretableRAGFactCheck/blob/main/Apple_Analytics_project_report.pdf) for detailed experimental results, methodology, and ablation findings.
 
 
