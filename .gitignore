@@ -1,0 +1,44 @@
+# Ignore Jupyter checkpoints and hidden runtime files
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.ipynb~ 
+*.bak
+
+# Python cache and environment files
+__pycache__/
+*.py[cod]
+*.so
+
+# VSCode, PyCharm, and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# OS junk
+*.swp
+*.swo
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# Model checkpoints or large saved files (optional)
+*.pt
+*.bin
+*.ckpt
+
+# If you use Hugging Face cache
+~/.cache/huggingface/
+
+# Colab or Jupyter runtime metadata
+**/.local/
+**/.config/
+
