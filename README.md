@@ -106,7 +106,7 @@ You would need following standard accesses (some free and some paid) to run the 
 
 ## Setup and Execution notes
 ### Where to Start
-- **RAG_Mistral_LOCAL.ipnyb** contains the complete code and various ablation study and is a good starting point.
+#### **RAG_Mistral_LOCAL.ipnyb** contains the complete code and various ablation study and is a good starting point.
     - RAG_Mistral_COLAB.ipnyb contains the COLAB implementation and install notes.
 - Refer to `qwen` and `openai` folders for respective implementations
 - **fine_tuning** 
