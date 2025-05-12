@@ -117,7 +117,7 @@ You would need following standard accesses (some free and some paid) to run the 
 # this creates a virtuall env named `ml` and installs packages including jupyter
 conda env create -f environments.yaml
 conda activate ml
-jupyer notebook
+jupyter notebook
 
 # Then open the LOCAL notebooks
 # Then refer to instructions in the Notebook itself.
